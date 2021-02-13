@@ -18,8 +18,11 @@ Anno: 2021
 
 Released By: Fabrizio Amorelli
 
-### Componenti
-- [BGInfo By Mark Russinovich](https://docs.microsoft.com/en-us/sysinternals/downloads/bginfo)
+### BGInfo By Mark Russinovich
+
+Versione: 4.28
+
+[https://docs.microsoft.com/en-us/sysinternals/downloads/bginfo](https://docs.microsoft.com/en-us/sysinternals/downloads/bginfo)
 
 # Download
 - Puoi trovare le varie versioni nella pagine delle <a href="https://github.com/Fabrizio04/BGInfo-ITA/releases/">release</a>
