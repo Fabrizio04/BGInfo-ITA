@@ -36,12 +36,13 @@ Versione: 4.28
 [fWin81P]:   https://i.ibb.co/QXZpFct/Windows8.jpg
 [fWin10TP]:  https://i.ibb.co/cvLzPLQ/Windows10.jpg
 
-| Screenshots |
-| :---------: |
-| [ Windows Vista<br>![Windows Vista][pVistaST]][fVistaST] |
-| [ Windows 7<br>![Windows 7][pWin7ST]][fWin7ST] |
-| [ Windows 8.1<br>![Windows 8.1][pWin81P]][fWin81P] |
-| [ Windows 10<br>![Windows 10][pWin10TP]][fWin10TP] |
+| Windows Vista | Windows 7 |
+| :---------: | :---------: |
+| [ ![Windows Vista][pVistaST]][fVistaST] | [ ![Windows 7][pWin7ST]][fWin7ST] |
+
+| Windows 8.1 | Windows 10 |
+| :---------: | :---------: |
+| [ ![Windows 8.1][pWin81P]][fWin81P] | [ ![Windows 10][pWin10TP]][fWin10TP] |
 
 # Download
 - Puoi trovare le varie versioni nella pagine delle <a href="https://github.com/Fabrizio04/BGInfo-ITA/releases/">release</a>
